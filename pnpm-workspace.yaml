@@ -17,6 +17,8 @@ allowBuilds:
   'unrs-resolver': false
   'vue-demi': false
 
+dedupePeers: true
+
 overrides:
   sharp: 0.34.5
   vite: npm:@voidzero-dev/vite-plus-core@0.1.12
